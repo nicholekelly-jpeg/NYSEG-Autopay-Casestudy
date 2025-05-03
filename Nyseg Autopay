@@ -1,0 +1,9 @@
+# NYSEG AutoPay Case Study
+
+This case study explores a real customer experience from my time supporting billing at NYSEG (New York State Electric & Gas). It focuses on confusion caused by the coexistence of two different autopay systems—one linked to SAP/CRMB and another called "Recurring Payments."
+
+The file `NYSEG Autopay Case Study.md` walks through:
+- The technical problem
+- Customer impact
+- Suggested solutions
+- Skills demonstrated
